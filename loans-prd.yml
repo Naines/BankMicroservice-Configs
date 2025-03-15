@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to Bank loans related webhook APIs "
+  message: "Welcome to Bank loans related prd APIs "
   contactDetails:
     name: "Nainesh Goel - ProducerOwner"
     email: "prd3@nainesh.com"
