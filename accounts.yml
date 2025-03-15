@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts related local APIs "
+  message: "Welcome to Bank accounts related local test APIs "
   contactDetails:
     name: "Nainesh Goel - Developer"
     email: "goel@nainesh.com"
