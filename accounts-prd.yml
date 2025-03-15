@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Bank accounts related prd APIs "
+  message: "Welcome to Bank accounts related webhook APIs "
   contactDetails:
     name: "Nainesh Goel - Product Owner"
     email: "goel@nainesh.com"
