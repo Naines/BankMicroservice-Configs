@@ -1,8 +1,8 @@
 build:
-  version: "3.0"
+  version: "4.0"
 
 accounts:
-  message: "Welcome to Bank accounts related prod APIs "
+  message: "Welcome to Bank accounts related production APIs "
   contactDetails:
     name: "Nainesh Goel - Product Owner"
     email: "goel@nainesh.com"
